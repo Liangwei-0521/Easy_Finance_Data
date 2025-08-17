@@ -155,3 +155,7 @@ def add_tech_factor(path):
 
 ## Next verison
 Implementing the acquisition of financial text data
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Liangwei-0521/Easy_Finance_Data&type=Date)](https://star-history.com/#Liangwei-0521/Easy_Finance_Data&Date)
